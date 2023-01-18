@@ -1,5 +1,5 @@
 '''
-파일명 : EX-02-2-variable.py
+파일명 : Ex02-2-variable.py
 
 변수(variable)
     어떤 데이터를 저장하고자 할 때 사용하는 메모리 저장소.
