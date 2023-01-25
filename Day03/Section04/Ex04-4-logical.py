@@ -11,3 +11,11 @@ print('{} > 0 and {} > 0 : {}'.format(a, b, a > 0 and b > 0))
 print('{} > 0 or {} > 0 : {}'.format(a, b, a > 0 or b > 0))
 print('not {} : {}'.format(a, not a)) #값이 있으니까 true인데 not이 붙어서 false
 print('not {} : {}'.format(b, not b)) #0은 false니까 0의 not은 true
+
+print('1번 : {}입니다.'.format(not(a > 0 or b > 0)))
+print('2번 : {}입니다.'.format(not(a > 0 and not b > 0)))
+
+if(not(a == 15 or b == 16)):
+    print("택시 거래가 아닙니다")
+else:
+    print("택시 거래입니다")
