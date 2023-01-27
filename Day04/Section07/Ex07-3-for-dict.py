@@ -1,5 +1,5 @@
 '''
-파일명 : Ex-07-3-for-dict.py
+파일명 : Ex07-3-for-dict.py
 '''
 eng_dict = {
     'sun':'태양',

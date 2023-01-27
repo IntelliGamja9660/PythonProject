@@ -1,5 +1,5 @@
 '''
-파일명 : Ex-07-2-for-range.py
+파일명 : Ex07-2-for-range.py
 for 문과 rage 함수
 
 range()
