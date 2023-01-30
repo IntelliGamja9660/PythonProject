@@ -10,6 +10,10 @@ console> pop install package명
 
 패키지 삭제
 console> pop uninstall package명
+
+
+
+
 '''
 # 행렬 연산 관련 package
 import numpy as np
